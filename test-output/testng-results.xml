@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T21:56:26 IST" name="PetSuite" finished-at="2024-04-15T21:56:35 IST" duration-ms="9230">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T21:56:26 IST" name="PetTest" finished-at="2024-04-15T21:56:35 IST" duration-ms="9230">
+      <class name="api.tests.UserTests2">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:api.tests.UserTests2@33d512c1]" started-at="2024-04-15T21:56:26 IST" name="setUpData" finished-at="2024-04-15T21:56:27 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.tests.UserTests2@33d512c1]" started-at="2024-04-15T21:56:27 IST" name="testPostUser" finished-at="2024-04-15T21:56:30 IST" duration-ms="3009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.tests.UserTests2@33d512c1]" started-at="2024-04-15T21:56:30 IST" name="testGetUserByName" finished-at="2024-04-15T21:56:31 IST" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.tests.UserTests2@33d512c1]" started-at="2024-04-15T21:56:31 IST" name="testUpdateUserByName" finished-at="2024-04-15T21:56:34 IST" duration-ms="2590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByName -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.tests.UserTests2@33d512c1]" started-at="2024-04-15T21:56:34 IST" name="testDeleteUser" finished-at="2024-04-15T21:56:35 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.tests.UserTests2 -->
+    </test> <!-- PetTest -->
+  </suite> <!-- PetSuite -->
+</testng-results>
